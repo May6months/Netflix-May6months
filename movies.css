@@ -249,6 +249,11 @@ h1 {
     border: none;
 }
 
+#languages > option {
+    border: none;
+    background-color: green;
+}
+
 .svg-language {
     color: white;
     margin-right: 5px;
