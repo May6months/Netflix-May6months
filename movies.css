@@ -246,12 +246,6 @@ h1 {
 
 #languages {
     cursor: pointer;
-    border: none;
-}
-
-#languages > option {
-    border: none;
-    background-color: green;
 }
 
 .svg-language {
