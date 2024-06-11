@@ -260,10 +260,8 @@ h1 {
     margin: 0 auto;
     color: white;
     font-size: 10px;
+    border-radius: 3px;
+    background-color: green;
 }
 
-.github-link-footer:hover {
-    background-color: orange;
-    border-radius: 3px;
-}
 
