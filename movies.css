@@ -246,6 +246,7 @@ h1 {
 
 #languages {
     cursor: pointer;
+    border: none;
 }
 
 .svg-language {
