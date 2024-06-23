@@ -214,12 +214,13 @@ h1 {
 }
 
 .footer ul li, .questions-title {
-    color: #757575;
+    color: rgba(255,255,255,0.7); /*added ------------------------------*/
 }
 
 .footer-links li {
     font-size: 13px;
     line-height: 2;
+    color: rgba(255,255,255,0.7); /*added ------------------------------*/
 }
 
 .footer ul li:hover {
